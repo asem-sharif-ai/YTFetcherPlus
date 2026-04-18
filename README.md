@@ -60,11 +60,11 @@
 
 ### &nbsp;&nbsp;Setup
 
-> Run once. Takes about 30 seconds.
+> Run once. Takes about 60 seconds.
 
 <div align="center">
 
-![Setup Demo](assets/setup.gif)
+![Setup Demo](setup.gif)
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-![Usage Demo](assets/usage.gif)
+![Usage Demo](usage.gif)
 
 </div>
 
